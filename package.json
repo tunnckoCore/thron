@@ -1,0 +1,22 @@
+{
+  "name": "thron",
+  "version": "0.0.0",
+  "description": "Useful, powerful and simple object validation based on a schema object with rules that can be glob pattern, regexp, string, array, function or dot property paths like `a.b.c` for nested objects.",
+  "repository": "tunnckoCore/thron",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "extend-shallow": "^2.0.0",
+    "is-extendable": "^0.1.1",
+    "is-match": "chorks/is-match#master"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "is-equal-shallow": "^0.1.3"
+  },
+  "keywords": []
+}
