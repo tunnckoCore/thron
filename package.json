@@ -20,5 +20,32 @@
     "assertit": "^0.1.0",
     "is-equal-shallow": "^0.1.3"
   },
-  "keywords": []
+  "keywords": [
+    "array",
+    "check",
+    "dot",
+    "glob",
+    "is",
+    "isarray",
+    "nested",
+    "notation",
+    "obj",
+    "object",
+    "path",
+    "patterns",
+    "powerful",
+    "property",
+    "rules",
+    "schema",
+    "string",
+    "tool",
+    "toolkit",
+    "tools",
+    "useful",
+    "util",
+    "utility",
+    "utils",
+    "validate",
+    "validation"
+  ]
 }
